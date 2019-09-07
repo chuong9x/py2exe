@@ -1,0 +1,7 @@
+Creator : HVC
+Website : FB.COM/HVC
+Version : 0.1
+
+Note: 
+
+To Use This Program You Must Have Python3+ along with py2exe installed 
